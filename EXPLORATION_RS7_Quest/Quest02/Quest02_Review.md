@@ -1,6 +1,6 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요. 이승제
-- 리뷰어 : 리뷰어의 이름을 작성하세요. 이재영
+- 코더 : 이승제
+- 리뷰어 : 옥창우
 
 
 # PRT(Peer Review Template)
@@ -9,7 +9,15 @@
     - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 코드를 캡쳐해 근거로 첨부
-    
+     
+    ### 결과
+    - 2. 프로젝트 2의 회귀모델 예측정확도가 기준 이상 높게 나왔는가? :
+<img width="274" alt="image" src="https://github.com/happybin2013/AIFFEL7_Quest/assets/124979889/03b528b6-2b33-4441-a8d3-35074ea177bc">
+    - 3. 시각화 요구사항이 정확하게 이루어졌는가?
+<img width="666" alt="image" src="https://github.com/happybin2013/AIFFEL7_Quest/assets/124979889/2bcafd50-2ae4-482d-b39a-4d5375e2df74">
+<img width="681" alt="image" src="https://github.com/happybin2013/AIFFEL7_Quest/assets/124979889/cb337b31-1335-4a8d-b9f4-31e5ef182ee4">
+
+
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
     - 해당 코드 블럭에 doc string/annotation이 달려 있는지 확인
@@ -29,7 +37,10 @@
     배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부합니다.
-        
+
+<img width="418" alt="image" src="https://github.com/happybin2013/AIFFEL7_Quest/assets/124979889/e4fe9939-8282-4819-b2e8-c4502dc353c5">
+
+
 - [ ]  **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 하드코딩을 하지않고 함수화, 모듈화가 가능한 부분은 함수를 만들거나 클래스로 짰는지
