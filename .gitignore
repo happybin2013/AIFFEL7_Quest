@@ -1,6 +1,9 @@
 # image
 EXPLORATION_RS7_Quest/Quest04/images/*
 
+# log?
+catboost_info
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
