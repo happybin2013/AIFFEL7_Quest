@@ -1,6 +1,8 @@
 # AIFFEL7_Quset
 AIFFEL 아이펠 7기 퀘스트 Repo
 
+---
+
 ### 커밋 메시지 규칙
 
 - **fix** : 잘못된 부분을 수정
