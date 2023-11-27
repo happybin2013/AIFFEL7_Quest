@@ -23,4 +23,4 @@ ex) fix: [2023-11-23] 이미지 처리 에러 수정..
 2. git config --global commit.template <.gitmessage.txt 경로>
 
 
-### Refactoring 파일은 과정이 끝날 때 복습 & 효율적 코드 작성!
+### Refactoring 파일은 과정이 끝날 때 복습 & 효율적 코드 작성!!
