@@ -1,4 +1,4 @@
-![image](https://github.com/huihojeun2/AIFFEL7_Quest/assets/65065859/3c4db323-0751-452a-88f0-285ffcc3ee39)# AIFFEL Campus Online Code Peer Review Templete
+# AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 이승제
 - 리뷰어 : 전휘호
 
