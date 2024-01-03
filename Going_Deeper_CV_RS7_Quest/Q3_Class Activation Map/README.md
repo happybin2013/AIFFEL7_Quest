@@ -9,7 +9,7 @@
     - 문제를 해결하는 완성된 코드란 프로젝트 루브릭 3개 중 2개, 
     퀘스트 문제 요구조건 등을 지칭
         - 해당 조건을 만족하는 코드를 캡쳐해 근거로 첨부
-        - ![image](https://github.com/huihojeun2/AIFFEL7_Quest/assets/65065859/fe9b619c-f085-4195-a720-297531fd8cf3)
+        ![image](https://github.com/huihojeun2/AIFFEL7_Quest/assets/65065859/fe9b619c-f085-4195-a720-297531fd8cf3)
 
     
 - [O]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
